@@ -1,0 +1,1 @@
+(()=>{"use strict";document.querySelector(".container").addEventListener("click",(function(){console.log("Click!")}))})();
